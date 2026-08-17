@@ -1,6 +1,6 @@
 # Melhores-Wallpapers
 <image>
-![Texto Alternativo](cat28.jpg)
+
 
 
 
