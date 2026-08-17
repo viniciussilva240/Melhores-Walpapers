@@ -1,5 +1,5 @@
 # Melhores-Wallpapers
-<img src="cat28.jpg" alt="Texto Alternativo" width="50%">
+<img src="cat28.jpg" alt="Texto Alternativo" width="100%">
 
 
 
